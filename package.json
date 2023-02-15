@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/pangaunn/bull-workshop/issues"
   },
-  "homepage": "https://github.com/pangaunn/bull-workshop#readme"
+  "homepage": "https://github.com/pangaunn/bull-workshop#readme",
+  "dependencies": {
+    "bull": "^4.10.4"
+  }
 }
