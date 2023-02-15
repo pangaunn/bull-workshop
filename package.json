@@ -1,0 +1,20 @@
+{
+  "name": "bull-workshop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "producer": "node producer.js",
+    "consumer": "node consumer.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pangaunn/bull-workshop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pangaunn/bull-workshop/issues"
+  },
+  "homepage": "https://github.com/pangaunn/bull-workshop#readme"
+}
